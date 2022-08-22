@@ -8,7 +8,7 @@ figma.ui.onmessage = async msg => {
   let pageIds = [];
   let currentSelection;
   // Set the name of the font you want to use.
-  let fontName = "Inter";
+  let fontName = "Ubuntu";
 
   // Frame for wrapping the list of pages.
   let listFrame = figma.createFrame();
